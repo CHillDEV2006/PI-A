@@ -1,0 +1,7 @@
+ol, ul { 
+list-style-type: none;
+}
+
+#paren{
+    font-style:italic;
+}
